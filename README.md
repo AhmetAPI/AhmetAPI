@@ -12,11 +12,10 @@
   Şu anda aktif olarak geliştirdiğim projeler hakkında bilgi alabilirsiniz.
   
   ![Proje Örneği](Server.png)
-  > Projelerinizin ekran görüntülerini veya demo videolarını buraya ekleyebilirsiniz.
 
 - **Öğrenmekte Olduğum Alanlar:**  
-  Yeni teknolojiler ve diller öğrenmeye devam ediyorum.  
-  ![Öğrenme Görseli](https://linkiniz.com/ogrenme-ekrani.png)
+  Şu anda aktif olarak "capture the flag"
+  yarışmasına çalışıyorum  
   
 ---
 
