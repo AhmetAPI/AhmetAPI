@@ -34,9 +34,9 @@
 
 Burada, projelerimden ve katıldığım etkinliklerden bazı kareleri bulabilirsiniz:
 
-- ![Galeri Resmi 1](https://linkiniz.com/galeri1.png)
-- ![Galeri Resmi 2](https://linkiniz.com/galeri2.png)
-- ![Galeri Resmi 3](https://linkiniz.com/galeri3.png)
+- ![En Kısa Sürede yükleyeceğim](https://linkiniz.com/galeri1.png)
+- ![En Kısa Sürede yükleyeceğim](https://linkiniz.com/galeri2.png)
+- ![En Kısa Sürede yükleyeceğim](https://linkiniz.com/galeri3.png)
 
 > Dilerseniz, kendi resimlerinizi veya GIF gibi dinamik görselleri de ekleyebilirsiniz.
 
@@ -44,8 +44,8 @@ Burada, projelerimden ve katıldığım etkinliklerden bazı kareleri bulabilirs
 
 ### 📫 İletişim & Sosyal Medya
 
-- **E-posta:** [email@example.com](mailto:email@example.com)
-- **Twitter:** [@AhmetAPI](https://twitter.com/AhmetAPI)
+- **E-posta:** [ahmet@sonproject.com.tr](mailto:[ahmet@sonproject.com.tr)
+- **Instagram:** [@ahmet._.0765](https://www.instagram.com/ahmet._.0765/)
 - **LinkedIn:** [Profilim](https://linkedin.com/in/ahmetapi)
 
 ---
