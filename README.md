@@ -38,16 +38,14 @@ Burada, projelerimden ve katıldığım etkinliklerden bazı kareleri bulabilirs
 - ![En Kısa Sürede yükleyeceğim](https://linkiniz.com/galeri2.png)
 - ![En Kısa Sürede yükleyeceğim](https://linkiniz.com/galeri3.png)
 
-> Dilerseniz, kendi resimlerinizi veya GIF gibi dinamik görselleri de ekleyebilirsiniz.
-
 ---
 
 ### 📫 İletişim & Sosyal Medya
 
 - **E-posta:** [ahmet@sonproject.com.tr](mailto:[ahmet@sonproject.com.tr)
 - **Instagram:** [@ahmet._.0765](https://www.instagram.com/ahmet._.0765/)
-- **LinkedIn:** [Profilim](https://linkedin.com/in/ahmetapi)
-
+- **LinkedIn:** [Ahmet Malal](https://www.linkedin.com/in/ahmet-malal-019172352/) 
+> **LinkedIn** Üzerinde aktif değilim
 ---
 
 Bu örneği, kişisel ve projelerinize uygun şekilde düzenleyerek GitHub profilinize entegre edebilirsiniz. Görsel URL'lerini kendi dosyalarınız veya tercih ettiğiniz barındırma servisinden almayı unutmayın!
