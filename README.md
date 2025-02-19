@@ -19,19 +19,6 @@
   
 ---
 
-### 👥 İşbirliği & Destek
-
-- **Birlikte Çalışmak İstediğim Alanlar:**  
-  Projelerimde işbirliği yapmak isteyenler için detaylar aşağıda.
-  
-  ![İşbirliği Görseli](https://linkiniz.com/isbirligi.png)
-  > İşbirliğine açık olduğunuz konulara ait görseller ekleyerek ilgi çekici hale getirebilirsiniz.
-
-- **Yardım ve Geri Bildirim:**  
-  Karşılaştığınız sorunlar veya vereceğiniz geri bildirimler için bana ulaşabilirsiniz.
-
----
-
 ### 📊 İstatistikler & Başarılar
 
 - **GitHub İstatistiklerim:**  
