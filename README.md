@@ -1,7 +1,6 @@
 ## Merhaba 👋
 
 ![Banner Görseli](https://linkiniz.com/banner.png)
-> (Not: Banner görselinizin URL'sini buraya ekleyin.)
 
 **AhmetAPI/AhmetAPI** depom, GitHub profilimde yer alan bu `README.md` dosyası sayesinde özel bir konuma sahip. Aşağıda projelerim, öğrenme süreçlerim, işbirliği alanlarım ve çeşitli görsel içeriklerle ilgili detaylar yer alıyor.
 
