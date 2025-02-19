@@ -48,5 +48,4 @@ Burada, projelerimden ve katıldığım etkinliklerden bazı kareleri bulabilirs
 > **LinkedIn** Üzerinde aktif değilim
 ---
 
-Bu örneği, kişisel ve projelerinize uygun şekilde düzenleyerek GitHub profilinize entegre edebilirsiniz. Görsel URL'lerini kendi dosyalarınız veya tercih ettiğiniz barındırma servisinden almayı unutmayın!
-
+> README.md Dosyamı alıp dilediğiiniz gibi özelleştirip kullanabilirsiniz
