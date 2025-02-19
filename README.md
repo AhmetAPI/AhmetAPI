@@ -11,10 +11,10 @@
 - **Üzerinde Çalıştığım Projeler:**  
   Şu anda aktif olarak geliştirdiğim projeler hakkında bilgi alabilirsiniz.
   
-  ![Proje Örneği](https://linkiniz.com/proje-ekran-goruntusu.png)
+  ![Proje Örneği](Server.png)
   > Projelerinizin ekran görüntülerini veya demo videolarını buraya ekleyebilirsiniz.
 
-- **Öğrenmekte Olduğum Teknolojiler:**  
+- **Öğrenmekte Olduğum Alanlar:**  
   Yeni teknolojiler ve diller öğrenmeye devam ediyorum.  
   ![Öğrenme Görseli](https://linkiniz.com/ogrenme-ekrani.png)
   
