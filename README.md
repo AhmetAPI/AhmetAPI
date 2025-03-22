@@ -1,29 +1,29 @@
-# 🌠 AhmetAPI'nin Kod Evreni! ⚡️
+# AhmetAPI'nin Yazılım Dünyası
 
 ![Banner](https://images.unsplash.com/photo-1633613286848-e6f43bbafb8d?q=80&w=1200&h=300&auto=format&fit=crop&text=AhmetAPI)
 
-**AhmetAPI/AhmetAPI** | Ben Ahmet, kodlarla geleceği şekillendiriyorum! Java, PHP, HTML, JS ve Python’da sınırları zorluyorum. Hazır mısınız? 🚀
+**AhmetAPI/AhmetAPI** | Ben Ahmet, yazılım geliştirme alanında yenilikçi çözümler üretiyorum. Java, PHP, HTML, JavaScript ve Python ile projelerimi hayata geçiriyorum. Çalışmalarımı aşağıda inceleyebilirsiniz.
 
 ---
 
-## 🔥 Projelerim & Çalışmalarım
+## Projelerim ve Çalışmalarım
 
 - **Aktif Projeler:**  
-  Java, PHP, HTML, JavaScript ve Python ile ultra modern çözümler! Backend’den frontend’e, her şey burada parlıyor! 🌈
+  Java, PHP, HTML, JavaScript ve Python kullanarak modern yazılım çözümleri geliştiriyorum. Backend sistemlerden kullanıcı odaklı frontend tasarımlarına kadar geniş bir yelpazede çalışıyorum.
 
-- **Hedeflerim:**  
-  "Capture The Flag" ile siber dünyada iz bırakıyorum. Kod + tutku = sonsuz olasılık! 💥
+- **Gelişim Alanlarım:**  
+  Şu anda "Capture The Flag" yarışmalarına hazırlanıyor ve siber güvenlik konularında uzmanlığımı derinleştiriyorum.
 
 ---
 
-## 🌐 Sosyal Medya  
+## Sosyal Medya  
 [![Instagram](https://img.shields.io/badge/Instagram-%23FF007A.svg?logo=Instagram&logoColor=white&style=plastic)](https://www.instagram.com/ahmet._.0765/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300D4FF.svg?logo=linkedin&logoColor=black&style=plastic)](https://www.linkedin.com/in/ahmet-malal-019172352/) 
 [![Email](https://img.shields.io/badge/Email-%23FF4444?logo=gmail&logoColor=white&style=plastic)](mailto:ahmet@sonproject.com.tr)
 
 ---
 
-# 💿 Teknoloji Yığınım 🎨  
+# Teknoloji Yığınım  
 ![Java](https://img.shields.io/badge/Java-%23FF5722.svg?style=plastic&logo=openjdk&logoColor=white) 
 ![PHP](https://img.shields.io/badge/PHP-%23AA00FF.svg?style=plastic&logo=php&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/HTML5-%23FF1744.svg?style=plastic&logo=html5&logoColor=white) 
@@ -37,10 +37,10 @@
 
 ---
 
-# 📊 GitHub Vibes 🌩️  
+# GitHub İstatistikleri  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetAPI&show_icons=true&theme=highcontrast&bg_color=1A0F2B&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmetAPI&theme=highcontrast&background=1A0F2B&ring=FFFF00&fire=FF00FF&currStreakLabel=00FFFF)
 
 ---
 
-> Kodla parlayan bu README sizin için hazır! Daha fazla enerji isterseniz söyleyin! 🎉
+> Bu README, çalışmalarımı profesyonelce sergilemek için tasarlandı. Özelleştirmek isterseniz her zaman güncelleyebilirsiniz.
