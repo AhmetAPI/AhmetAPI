@@ -1,27 +1,27 @@
 ## Merhaba 👋
 
-![Banner Görseli](banner.png)
+![Banner Görseli](https://via.placeholder.com/1200x300.png?text=AhmetAPI+Banner)
 
-**AhmetAPI/AhmetAPI** depom, Selam ben Ahmet aşşağıda benim hakkımda ufak bilgiler vardır.
+**AhmetAPI/AhmetAPI** depom, Selam ben Ahmet. Aşağıda benim hakkımda kısa bilgiler bulabilirsiniz.
+
 ---
 
 ### 🚀 Projelerim & Çalışmalarım
 
 - **Üzerinde Çalıştığım Projeler:**  
-  Şu anda aktif olarak geliştirdiğim projeler hakkında bilgi alabilirsiniz.
+  Şu anda aktif olarak geliştirdiğim projeler hakkında bilgi alabilirsiniz. Java, PHP, HTML, JavaScript ve Python dillerinde çözümler üretiyorum.
   
-  ![Proje Örneği](Server.png)
+  ![Proje Örneği](https://via.placeholder.com/600x300.png?text=Server+Project)
 
 - **Öğrenmekte Olduğum Alanlar:**  
-  Şu anda aktif olarak "capture the flag"
-  yarışmasına çalışıyorum  
-  
+  Şu anda "Capture The Flag" yarışmalarına yönelik çalışmalar yapıyorum ve siber güvenlik konularında kendimi geliştiriyorum.
+
 ---
 
 ### 📊 İstatistikler & Başarılar
 
 - **GitHub İstatistiklerim:**  
-  Profilimdeki aktifliği ve başarıları aşağıdaki görsellerle takip edebilirsiniz.
+  Profilimdeki активности ve başarıları aşağıdaki görsellerle takip edebilirsiniz.
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetAPI&show_icons=true&theme=radical)
   
@@ -33,18 +33,19 @@
 
 Burada, projelerimden ve katıldığım etkinliklerden bazı kareleri bulabilirsiniz:
 
-- ![En Kısa Sürede yükleyeceğim](https://linkiniz.com/galeri1.png)
-- ![En Kısa Sürede yükleyeceğim](https://linkiniz.com/galeri2.png)
-- ![En Kısa Sürede yükleyeceğim](https://linkiniz.com/galeri3.png)
+- ![En Kısa Sürede Yükleyeceğim](https://via.placeholder.com/300x200.png?text=Galeri+1)
+- ![En Kısa Sürede Yükleyeceğim](https://via.placeholder.com/300x200.png?text=Galeri+2)
+- ![En Kısa Sürede Yükleyeceğim](https://via.placeholder.com/300x200.png?text=Galeri+3)
 
 ---
 
 ### 📫 İletişim & Sosyal Medya
 
-- **E-posta:** [ahmet@sonproject.com.tr](mailto:[ahmet@sonproject.com.tr)
-- **Instagram:** [@ahmet._.0765](https://www.instagram.com/ahmet._.0765/)
-- **LinkedIn:** [Ahmet Malal](https://www.linkedin.com/in/ahmet-malal-019172352/) 
-> **LinkedIn** Üzerinde aktif değilim
+- **E-posta:** [ahmet@sonproject.com.tr](mailto:ahmet@sonproject.com.tr)  
+- **Instagram:** [@ahmet._.0765](https://www.instagram.com/ahmet._.0765/)  
+- **LinkedIn:** [Ahmet Malal](https://www.linkedin.com/in/ahmet-malal-019172352/)  
+  > **LinkedIn** üzerinde aktif değilim  
+
 ---
 
-> README.md Dosyamı alıp dilediğiiniz gibi özelleştirip kullanabilirsiniz
+> README.md dosyamı alıp dilediğiniz gibi özelleştirip kullanabilirsiniz.
