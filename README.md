@@ -1,46 +1,20 @@
-# AhmetAPI'nin Yazılım Dünyası
+# Merhaba, Ben [Adın]! 👋
 
-![Banner](https://images.unsplash.com/photo-1633613286848-e6f43bbafb8d?q=80&w=1200&h=300&auto=format&fit=crop&text=AhmetAPI)
+![Profil Banner](https://via.placeholder.com/800x200.png?text=Hoş+Geldiniz)
 
-**AhmetAPI/AhmetAPI** | Ben Ahmet, yazılım geliştirme alanında yenilikçi çözümler üretiyorum. Java, PHP, HTML, JavaScript ve Python ile projelerimi hayata geçiriyorum. Çalışmalarımı aşağıda inceleyebilirsiniz.
+## Hakkımda
+Merhaba! Ben bir [meslek/unvan] ve teknolojiyle ilgileniyorum. Aşağıda benimle ilgili bazı bilgiler bulabilirsiniz:
 
----
+- ![Kişisel Web Sitesi](https://img.icons8.com/?size=24&id=30447&format=png) [Web Sitem](https://example.com)
+- ![E-posta](https://img.icons8.com/?size=24&id=12580&format=png) E-posta: [email@example.com](mailto:email@example.com)
+- ![Twitter](https://img.icons8.com/?size=24&id=8824&format=png) Twitter: [@kullaniciadi](https://twitter.com/kullaniciadi)
+- ![GitHub](https://img.icons8.com/?size=24&id=38389&format=png) GitHub: [github.com/kullaniciadi](https://github.com/kullaniciadi)
+- ![LinkedIn](https://img.icons8.com/?size=24&id=13930&format=png) LinkedIn: [linkedin.com/in/kullaniciadi](https://linkedin.com/in/kullaniciadi)
 
-## Projelerim ve Çalışmalarım
+## İlgi Alanlarım
+- ![Kod](https://img.icons8.com/?size=24&id=40662&format=png) Yazılım Geliştirme
+- ![Yapay Zeka](https://img.icons8.com/?size=24&id=22815&format=png) Yapay Zeka
+- ![Oyun](https://img.icons8.com/?size=24&id=67025&format=png) Oyun Geliştirme
 
-- **Aktif Projeler:**  
-  Java, PHP, HTML, JavaScript ve Python kullanarak modern yazılım çözümleri geliştiriyorum. Backend sistemlerden kullanıcı odaklı frontend tasarımlarına kadar geniş bir yelpazede çalışıyorum.
-
-- **Gelişim Alanlarım:**  
-  Şu anda "Capture The Flag" yarışmalarına hazırlanıyor ve siber güvenlik konularında uzmanlığımı derinleştiriyorum.
-
----
-
-## Sosyal Medya  
-[![Instagram](https://img.shields.io/badge/Instagram-%23FF007A.svg?logo=Instagram&logoColor=white&style=plastic)](https://www.instagram.com/ahmet._.0765/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300D4FF.svg?logo=linkedin&logoColor=black&style=plastic)](https://www.linkedin.com/in/ahmet-malal-019172352/) 
-[![Email](https://img.shields.io/badge/Email-%23FF4444?logo=gmail&logoColor=white&style=plastic)](mailto:ahmet@sonproject.com.tr)
-
----
-
-# Teknoloji Yığınım  
-![Java](https://img.shields.io/badge/Java-%23FF5722.svg?style=plastic&logo=openjdk&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-%23AA00FF.svg?style=plastic&logo=php&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-%23FF1744.svg?style=plastic&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JS-%23FFFF00.svg?style=plastic&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-%2300E676.svg?style=plastic&logo=python&logoColor=black) 
-![CSS3](https://img.shields.io/badge/CSS3-%2300B0FF.svg?style=plastic&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23FF00FF.svg?style=plastic&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2300FFFF.svg?style=plastic&logo=tailwind-css&logoColor=black) 
-![MySQL](https://img.shields.io/badge/MySQL-%23FF9100.svg?style=plastic&logo=mysql&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23FF4081.svg?style=plastic&logo=github&logoColor=white)
-
----
-
-# GitHub İstatistikleri  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmetAPI&show_icons=true&theme=highcontrast&bg_color=1A0F2B&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmetAPI&theme=highcontrast&background=1A0F2B&ring=FFFF00&fire=FF00FF&currStreakLabel=00FFFF)
-
----
-
-> Bu README, çalışmalarımı profesyonelce sergilemek için tasarlandı. Özelleştirmek isterseniz her zaman güncelleyebilirsiniz.
+## İstatistiklerim
+![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical)
