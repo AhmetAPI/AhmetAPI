@@ -1,94 +1,14 @@
-<!-- Retro Terminal Başlangıç Ekranı -->
-<div align="center">
-  <pre>
-   ╔════════════════════════════════════╗
-   ║  INITIALIZING GROK'S RETRO SYSTEM  ║
-   ║  VERSION 3.11 - PROFESSIONAL CORE  ║
-   ╚════════════════════════════════════╝
-  </pre>
-  <img src="https://via.placeholder.com/800x150/00FF00/000000?text=GROK+-+MASTER+OF+PIXEL+CODE" alt="Retro Header Banner" style="border: 2px solid #00FF00;">
-</div>
 
-# GROK - Master of Pixel Code
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@KodBeyin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bingulhan2005@gmail.com) 
 
-Greetings, digital explorer! I am **Grok**, a seasoned code architect with an 8-bit soul and a passion for crafting innovative solutions.  
-This terminal serves as your gateway to my skills, projects, and professional network.  
-**Command**: `EXPLORE` to begin your journey.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mustafabinguldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mustafabinguldev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabinguldev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 
-## Professional Network
-<div align="center">
-  <a href="https://twitter.com/[yourtwitter]"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" width="40"></a> 
-  <a href="https://github.com/[yourgithub]"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40"></a> 
-  <a href="https://linkedin.com/in/[yourlinkedin]"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40"></a> 
-  <a href="https://instagram.com/[yourinstagram]"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="40"></a> 
-</div>
 
-- **Twitter**: [@yourtwitter](https://twitter.com/[yourtwitter]) - Concise insights in 140 characters.  
-- **GitHub**: [yourgithub](https://github.com/[yourgithub]) - The core of my coding universe.  
-- **LinkedIn**: [yourlinkedin](https://linkedin.com/in/[yourlinkedin]) - My professional CRT display.  
-- **Instagram**: [yourinstagram](https://instagram.com/[yourinstagram]) - Life through a pixelated lens.
 
----
-
-## Technical Expertise
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,rust,go,git,linux,docker,react,vue,css&perline=5" alt="Skill Icons">
-  <img src="https://via.placeholder.com/600x100/00FF00/000000?text=SKILL+LEVEL:+MASTER" alt="Skill Gradient Banner" style="margin-top: 10px;">
-</div>
-
-**Core Competencies**:  
-- *Debugging Accuracy*: 99% precision  
-- *Terminal Proficiency*: 80s-inspired efficiency  
-- *Endurance*: Powered by limitless coffee reserves
-
----
-
-## System Diagnostics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[yourgithub]&show_icons=true&theme=dracula&hide_border=true&bg_color=000000" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[yourgithub]&theme=dracula&hide_border=true" alt="Streak Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[yourgithub]&layout=compact&theme=dracula&hide_border=true" alt="Top Languages">
-</div>
-
----
-
-## Project Repository
-- **[Project 1](https://github.com/[yourgithub]/project1)**  
-  *Description*: An 8-bit styled game engine.  
-  *Technologies*: `Rust, OpenGL`  
-- **[Project 2](https://github.com/[yourgithub]/project2)**  
-  *Description*: A terminal-based chatbot system.  
-  *Technologies*: `Python, WebSocket`  
-- **[Project 3](https://github.com/[yourgithub]/project3)**  
-  *Description*: A retro-themed portfolio website.  
-  *Technologies*: `HTML, CSS, JavaScript`
-
-<div align="center">
-  <img src="https://via.placeholder.com/600x100/00FF00/000000?text=PROJECT+STATUS:+OPERATIONAL" alt="Project Gradient Banner">
-</div>
-
----
-
-## Contact Interface
-- **Email**: `[your.email@example.com](mailto:your.email@example.com)`  
-- **Discord**: `yourdiscord#1234`  
-- **Website**: [yourwebsite.com](https://yourwebsite.com)  
-**Command**: `PING GROK` - Expect a prompt response.
-
----
-
-## Core Philosophy
-> "Writing code is akin to defeating the final boss in Space Invaders: challenging, yet the victory is profoundly rewarding."  
-> — Grok
-
----
-
-<div align="center">
-  <pre>
-   SYSTEM STATUS: FULLY OPERATIONAL
-   POWERED BY: Synthwave Vibes, Coffee, and Pixel Precision
-  </pre>
-  <img src="https://via.placeholder.com/800x100/00FF00/000000?text=SYSTEM+ONLINE" alt="Footer Gradient Banner" style="border: 2px solid #00FF00;">
-</div>
