@@ -1,25 +1,60 @@
-# Merhaba, Ben [Adın]! 👋
-
-![Profil Banner](https://via.placeholder.com/800x200.png?text=Hoş+Geldiniz)
+<div align="center">
+  <img src="https://via.placeholder.com/800x200/1E90FF/FFFFFF?text=Hoş+Geldiniz" style="border-radius: 15px;" alt="Profil Banner">
+  <h1 style="font-family: 'Nova Square', sans-serif;">Merhaba, Ben [Adın]! 👋</h1>
+</div>
 
 ## Hakkımda
-Merhaba! Ben bir [meslek/unvan] ve teknolojiyle uğraşmayı seviyorum. Aşağıda sosyal medya hesaplarımı ve ilgi alanlarımı bulabilirsiniz.
+Merhaba! Ben bir [meslek/unvan] ve teknolojiyle uğraşmayı seviyorum. Aşağıda sosyal medya hesaplarım ve ilgi alanlarım yer alıyor.
 
 ## Sosyal Medya Hesaplarım
-Aşağıdaki ikonlara tıklayarak bana ulaşabilirsiniz:
-
-- [![Twitter](https://img.icons8.com/?size=24&id=8824&format=png)](https://twitter.com/kullaniciadi) **Twitter**: [@kullaniciadi](https://twitter.com/kullaniciadi)
-- [![GitHub](https://img.icons8.com/?size=24&id=38389&format=png)](https://github.com/kullaniciadi) **GitHub**: [github.com/kullaniciadi](https://github.com/kullaniciadi)
-- [![LinkedIn](https://img.icons8.com/?size=24&id=13930&format=png)](https://linkedin.com/in/kullaniciadi) **LinkedIn**: [linkedin.com/in/kullaniciadi](https://linkedin.com/in/kullaniciadi)
-- [![Instagram](https://img.icons8.com/?size=24&id=85154&format=png)](https://instagram.com/kullaniciadi) **Instagram**: [@kullaniciadi](https://instagram.com/kullaniciadi)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://twitter.com/kullaniciadi" target="_blank">
+    <img src="https://img.icons8.com/?size=32&id=8824&format=png" style="border-radius: 50%;" alt="Twitter"> 
+    <span style="font-family: 'Nova Square', sans-serif;">Twitter</span>
+  </a>
+  <a href="https://github.com/kullaniciadi" target="_blank">
+    <img src="https://img.icons8.com/?size=32&id=38389&format=png" style="border-radius: 50%;" alt="GitHub"> 
+    <span style="font-family: 'Nova Square', sans-serif;">GitHub</span>
+  </a>
+  <a href="https://linkedin.com/in/kullaniciadi" target="_blank">
+    <img src="https://img.icons8.com/?size=32&id=13930&format=png" style="border-radius: 50%;" alt="LinkedIn"> 
+    <span style="font-family: 'Nova Square', sans-serif;">LinkedIn</span>
+  </a>
+  <a href="https://instagram.com/kullaniciadi" target="_blank">
+    <img src="https://img.icons8.com/?size=32&id=85154&format=png" style="border-radius: 50%;" alt="Instagram"> 
+    <span style="font-family: 'Nova Square', sans-serif;">Instagram</span>
+  </a>
+</div>
 
 ## İlgi Alanlarım
-Yazılım geliştirme benim tutkum! İşte kullandığım bazı yazılım dilleri:
-
-- [![Java](https://img.icons8.com/?size=24&id=13679&format=png)](https://www.java.com) **Java**: Backend ve mobil geliştirme projelerinde kullanıyorum.
-- [![JavaScript](https://img.icons8.com/?size=24&id=108784&format=png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) **JavaScript**: Web geliştirme için favorim.
-- [![Python](https://img.icons8.com/?size=24&id=13441&format=png)](https://www.python.org) **Python**: Veri analizi ve yapay zeka projelerimde tercih ediyorum.
-- [![C#](https://img.icons8.com/?size=24&id=44068&format=png)](https://docs.microsoft.com/en-us/dotnet/csharp/) **C#**: Oyun geliştirme ve masaüstü uygulamalar için kullanıyorum.
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <a href="https://www.java.com" target="_blank">
+      <img src="https://img.icons8.com/?size=32&id=13679&format=png" style="border-radius: 50%;" alt="Java">
+      <p style="font-family: 'Nova Square', sans-serif;">Java</p>
+    </a>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://img.icons8.com/?size=32&id=108784&format=png" style="border-radius: 50%;" alt="JavaScript">
+      <p style="font-family: 'Nova Square', sans-serif;">JavaScript</p>
+    </a>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://www.python.org" target="_blank">
+      <img src="https://img.icons8.com/?size=32&id=13441&format=png" style="border-radius: 50%;" alt="Python">
+      <p style="font-family: 'Nova Square', sans-serif;">Python</p>
+    </a>
+  </div>
+  <div style="text-align: center;">
+    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+      <img src="https://img.icons8.com/?size=32&id=44068&format=png" style="border-radius: 50%;" alt="C#">
+      <p style="font-family: 'Nova Square', sans-serif;">C#</p>
+    </a>
+  </div>
+</div>
 
 ## İstatistiklerim
-![GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical" alt="GitHub Stats">
+</div>
