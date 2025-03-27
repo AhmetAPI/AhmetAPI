@@ -10,19 +10,19 @@ Merhaba! Ben bir [meslek/unvan] ve teknolojiyle uğraşmayı seviyorum. Aşağı
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://twitter.com/kullaniciadi" target="_blank">
     <img src="https://img.icons8.com/?size=32&id=8824&format=png" style="border-radius: 50%;" alt="Twitter"> 
-    <span style="font-family: 'Nova Square', sans-serif;">Twitter</span>
+    <span style="font-family: 'Nova Square', sans-serif;"></span>
   </a>
   <a href="https://github.com/kullaniciadi" target="_blank">
     <img src="https://img.icons8.com/?size=32&id=38389&format=png" style="border-radius: 50%;" alt="GitHub"> 
-    <span style="font-family: 'Nova Square', sans-serif;">GitHub</span>
+    <span style="font-family: 'Nova Square', sans-serif;"></span>
   </a>
   <a href="https://linkedin.com/in/kullaniciadi" target="_blank">
     <img src="https://img.icons8.com/?size=32&id=13930&format=png" style="border-radius: 50%;" alt="LinkedIn"> 
-    <span style="font-family: 'Nova Square', sans-serif;">LinkedIn</span>
+    <span style="font-family: 'Nova Square', sans-serif;"></span>
   </a>
   <a href="https://instagram.com/kullaniciadi" target="_blank">
     <img src="https://img.icons8.com/?size=32&id=85154&format=png" style="border-radius: 50%;" alt="Instagram"> 
-    <span style="font-family: 'Nova Square', sans-serif;">Instagram</span>
+    <span style="font-family: 'Nova Square', sans-serif;"></span>
   </a>
 </div>
 
